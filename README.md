@@ -1,7 +1,7 @@
 
 🌱 배울 수 있는 기회를 가진 것에 감사하며 삽니다!
 
-📫 java, jsp, Mysql, Oracle 배우는 중 ...
+📫 JAVA, JSP, Mysql, Oracle 배우는 중 ...
 
 <!---
 - 👋 Hi, I’m @kizuc
