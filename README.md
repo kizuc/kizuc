@@ -1,15 +1,11 @@
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">Running Up That Hill</h2>
+ <p align="center">더 나아가는 개발자 입니다!</p>
+</p>
 
-🌱 배울 수 있는 기회를 가진 것에 감사하며 삽니다!
+# 하고있는 것
 
-📫 JAVA, JSP, Mysql, Oracle 배우는 중 ...
-
-<!---
-- 👋 Hi, I’m @kizuc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-kizuc/kizuc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 핀테크 기반 e-커머스 개발자 훈련 중
+- `정보처리기사` 필기 합격
+- `SQLD` 준비 중...
