@@ -1,6 +1,6 @@
 <h1 align="center">🌄Running Up That Hill🌄</h1><br>
 
-#### 배울 수 있는 기회에 감사하며 삽니다! <br>
+배울 수 있는 기회에 감사하며 삽니다! <br>
 📚 [IT 블로그](https://kijuk.tistory.com/)에 공부한 걸 기록합니다.
 
 <h2>🦔 Career & Activities</h2>
