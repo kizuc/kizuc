@@ -1,7 +1,7 @@
 <h1 align="center">🌄Running Up That Hill🌄</h1><br>
 
 배울 수 있는 기회에 감사하며 삽니다! <br>
-📚[IT 블로그](http://tistory.com/kijuk) 공부한 걸 기록합니다.
+📚 [IT 블로그](http://tistory.com/kijuk) 공부한 걸 기록합니다.
 
 <h2>🦔 Career & Activities</h2>
 
