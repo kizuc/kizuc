@@ -4,10 +4,11 @@
 배울 수 있는 기회에 감사하며 공부합니다!<br><hr>
 
 
-💡 [소개 페이지](https://realdeveloper.pro/630ae63f37bb30b80da8abc0) 
+💡 [소개 페이지](https://realdeveloper.pro/630ae63f37bb30b80da8abc0) <br>
 📚 [IT 블로그](https://kijuk.tistory.com/)에 지식을 기록하고 있습니다.
 
 </div>
+<br>
 
 <div align="center">
 <p class="has-line-data" data-line-start="7" data-line-end="8">🛠️ <strong>Tech Stack & Tools </strong> 🛠️</p>   
@@ -16,10 +17,12 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>  
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/Oracle-4479A1?style=flat-square&logo=Oracle&logoColor=white"/> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>  
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
-
+<br>
+ 
 <h2>🦔 Career & Activities </h2>
 
  `핀테크 기반 e-커머스` 훈련 중...
