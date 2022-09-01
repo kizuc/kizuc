@@ -34,6 +34,9 @@
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=kijuk)](https://kijuk.tistory.com)
 
 <p class="has-line-data" data-line-start="7" data-line-end="8">📌 <strong> Project 📌</strong> </p>  
+[![project1](https://user-images.githubusercontent.com/108128650/187853063-f3307712-7cbb-4987-8c12-ebdb5c2044af.png)](https://github.com/kizuc/PersonalProject)
+![TeamProject-kizuc](https://user-images.githubusercontent.com/108128650/187853070-69c072cc-2ee2-4e5d-9a4a-1ab0e7623212.png)
+
 [![project1]<img src="https://opengraph.githubassets.com/1/kizuc/project1")(https://github.com/kizuc/PersonalProject)
 
 <div class="github-card" data-github="kizuc/TeamProject-kizuc" data-width="400" data-height="" data-theme="default"></div>
