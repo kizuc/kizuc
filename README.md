@@ -9,7 +9,7 @@
 <br><br>
 
 <div align="center">
-<p class="has-line-data" data-line-start="7" data-line-end="8">🛠️ <strong>Tech Stack & Tools </strong> 🛠️</p>   
+<h3>🛠️ <strong>Tech Stack & Tools </strong> 🛠️</h3> 
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>  
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
