@@ -23,9 +23,7 @@
 
 <hr><br>
 
-<h3>📌 <strong> Project </strong> 📌</h3> 
-
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=kijuk)](https://kijuk.tistory.com)
+<h2>📌 <strong> Project </strong> 📌</h2> 
 
 
 [![project1](https://user-images.githubusercontent.com/108128650/187853063-f3307712-7cbb-4987-8c12-ebdb5c2044af.png)](https://github.com/kizuc/PersonalProject)
