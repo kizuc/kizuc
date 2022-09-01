@@ -38,4 +38,4 @@
 [![project1](https://user-images.githubusercontent.com/108128650/187853063-f3307712-7cbb-4987-8c12-ebdb5c2044af.png)](https://github.com/kizuc/PersonalProject)
 
 
-![TeamProject-kizuc](https://user-images.githubusercontent.com/108128650/187853070-69c072cc-2ee2-4e5d-9a4a-1ab0e7623212.png)
+[![TeamProject-kizuc](https://user-images.githubusercontent.com/108128650/187853070-69c072cc-2ee2-4e5d-9a4a-1ab0e7623212.png)](https://github.com/kizuc/TeamProject-kizuc)
