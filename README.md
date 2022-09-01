@@ -33,4 +33,3 @@
 <p class="has-line-data" data-line-start="7" data-line-end="8">📌 <strong> IT-blog 📌</strong> </p>  
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=kijuk)](https://kijuk.tistory.com)
 
-
