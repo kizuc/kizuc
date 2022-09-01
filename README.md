@@ -3,6 +3,7 @@
 <div align="center">
 
 💡 [<strong>소개 페이지</strong>](https://realdeveloper.pro/630ae63f37bb30b80da8abc0) <br>
+📚 [IT 블로그](https://kijuk.tistory.com/)에 지식을 기록하고 있습니다.<br>
 배울 수 있는 기회에 감사하며 공부합니다!<br>
 
 </div>
@@ -20,7 +21,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
 </div>
- 
+
 <hr><br>
 
 <p class="has-line-data" data-line-start="7" data-line-end="8">🦔 <strong> Career & Activities </strong> </p>  
@@ -30,6 +31,10 @@
 - `정보처리기사` 실기 준비 중...
 <br>
 
-<p class="has-line-data" data-line-start="7" data-line-end="8">📌 <strong> IT-blog 📌</strong> </p>  
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=kijuk)](https://kijuk.tistory.com)
 
+<p class="has-line-data" data-line-start="7" data-line-end="8">📌 <strong> Project 📌</strong> </p>  
+<img src="https://opengraph.githubassets.com/1/kizuc/project1">(https://github.com/kizuc/PersonalProject)
+
+<div class="github-card" data-github="kizuc/TeamProject-kizuc" data-width="400" data-height="" data-theme="default"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
