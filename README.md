@@ -23,8 +23,9 @@
 
 <hr><br>
 
+<div align="center">
 <h2>📌 <strong> Project </strong> 📌</h2> 
-
+</div>
 
 [![project1](https://user-images.githubusercontent.com/108128650/187853063-f3307712-7cbb-4987-8c12-ebdb5c2044af.png)](https://github.com/kizuc/PersonalProject)
 
