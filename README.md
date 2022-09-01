@@ -31,6 +31,8 @@
 - `정보처리기사` 실기 준비 중...
 <br>
 
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={kijuk}&postId={insert_postId})](https://github.com/loosie/github-readme-tistory-card)
+
 <p class="has-line-data" data-line-start="7" data-line-end="8">📌 <strong> Project 📌</strong> </p>  
 <div class="github-card" data-github="kizuc/PersonalProject" data-width="400" data-height="" data-theme="default"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
