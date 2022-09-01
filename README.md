@@ -23,6 +23,7 @@
 
 <hr><br>
 
+<!--
 <div align="center">
 <h2>📌 <strong> Project </strong> 📌</h2> 
 </div>
@@ -31,6 +32,7 @@
 
 
 [![TeamProject-kizuc](https://user-images.githubusercontent.com/108128650/187853070-69c072cc-2ee2-4e5d-9a4a-1ab0e7623212.png)](https://github.com/kizuc/TeamProject-kizuc)
+-->
 
 <h2>🦔 <strong> Career & Activities </strong> </h2>  
 
