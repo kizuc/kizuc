@@ -31,7 +31,7 @@
 - `정보처리기사` 실기 준비 중...
 <br>
 
-<p class="has-line-data" data-line-start="7" data-line-end="8">📚 <strong> IT-Blog </strong> </p>  
+<h2>📚 <strong> IT-Blog </strong> </h2>  
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=kijuk)](https://kijuk.tistory.com)
 
