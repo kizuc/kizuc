@@ -4,7 +4,7 @@
 
 💡 [<strong>소개 페이지</strong>](https://realdeveloper.pro/630ae63f37bb30b80da8abc0) <br>
 📚 [IT 블로그](https://kijuk.tistory.com/)에 지식을 기록하고 있습니다.<br>
-배울 수 있는 기회에 감사하며 공부합니다!<br><hr>
+배울 수 있는 기회에 감사하며 공부합니다!<br>
 
 </div>
 <br><br>
@@ -22,7 +22,8 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
 </div>
  
-<br><br>
+<br>
+<hr><br>
 
 <p class="has-line-data" data-line-start="7" data-line-end="8">🦔 Career & Activities </p>  
 
