@@ -22,7 +22,6 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
 </div>
  
-<br>
 <hr><br>
 
 <p class="has-line-data" data-line-start="7" data-line-end="8">🦔 Career & Activities </p>  
@@ -30,3 +29,4 @@
 - `핀테크 기반 e-커머스` 훈련 중...
 - `정보처리기사` 필기 합격
 - `정보처리기사` 실기 준비 중...
+<br>
