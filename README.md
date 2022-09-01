@@ -2,7 +2,7 @@
 
 <div align="center">
 
-💡 [<strong>소개 페이지</strong>](https://realdeveloper.pro/630ae63f37bb30b80da8abc0) 
+<h4>💡 [<strong>소개 페이지</strong>](https://realdeveloper.pro/630ae63f37bb30b80da8abc0) </h4>
 ([이미지로 보기](https://github.com/kizuc/PersonalProject/issues/4)  |  [PDF](https://github.com/kizuc/PersonalProject/files/9467447/-.3.pdf))<br>
 배울 수 있는 기회에 감사하며 공부합니다!<br>
 </div>
