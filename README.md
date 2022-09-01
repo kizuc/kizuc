@@ -23,6 +23,16 @@
 
 <hr><br>
 
+<h3>📌 <strong> Project </strong> 📌</h3> 
+
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=kijuk)](https://kijuk.tistory.com)
+
+
+[![project1](https://user-images.githubusercontent.com/108128650/187853063-f3307712-7cbb-4987-8c12-ebdb5c2044af.png)](https://github.com/kizuc/PersonalProject)
+
+
+[![TeamProject-kizuc](https://user-images.githubusercontent.com/108128650/187853070-69c072cc-2ee2-4e5d-9a4a-1ab0e7623212.png)](https://github.com/kizuc/TeamProject-kizuc)
+
 <h2>🦔 <strong> Career & Activities </strong> </h2>  
 
 - `핀테크 기반 e-커머스` 훈련 중...
@@ -34,8 +44,3 @@
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=kijuk)](https://kijuk.tistory.com)
 
-
-[![project1](https://user-images.githubusercontent.com/108128650/187853063-f3307712-7cbb-4987-8c12-ebdb5c2044af.png)](https://github.com/kizuc/PersonalProject)
-
-
-[![TeamProject-kizuc](https://user-images.githubusercontent.com/108128650/187853070-69c072cc-2ee2-4e5d-9a4a-1ab0e7623212.png)](https://github.com/kizuc/TeamProject-kizuc)
