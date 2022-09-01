@@ -34,7 +34,7 @@
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=kijuk)](https://kijuk.tistory.com)
 
 <p class="has-line-data" data-line-start="7" data-line-end="8">📌 <strong> Project 📌</strong> </p>  
-<div class="github-card" data-github="kizuc/PersonalProject" data-width="400" data-height="" data-theme="default"></div>
+<div class="github-card" data-github="kizuc/TeamProject-kizu" data-width="400" data-height="" data-theme="default"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
 <div class="github-card" data-github="kizuc/TeamProject-kizuc" data-width="400" data-height="" data-theme="default"></div>
