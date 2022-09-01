@@ -24,7 +24,7 @@
 
 <hr><br>
 
-<p class="has-line-data" data-line-start="7" data-line-end="8">🦔 <strong> Career & Activities </strong> </p>  
+<h2>🦔 <strong> Career & Activities </strong> </h2>  
 
 - `핀테크 기반 e-커머스` 훈련 중...
 - `정보처리기사` 필기 합격
