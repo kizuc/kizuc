@@ -43,9 +43,13 @@
 
 <h2>📌 <strong> Project </strong> </h2> 
 
+<strong> 개인 프로젝트 </strong>
+
 [![KakaoTalk_20220902_092800116_01](https://user-images.githubusercontent.com/108128650/188034329-00cdcd29-0b50-4a2b-bd2b-c575331903c9.png)](https://github.com/kizuc/PersonalProject)
 
-[![KakaoTalk_20220902_092800116](https://user-images.githubusercontent.com/108128650/188034334-965d00ed-26bd-4a25-bd0c-772cc8f590b8.png)]https://github.com/kizuc/TeamProject-kizuc)
+<strong> 팀 프로젝트 </strong>
+
+[![KakaoTalk_20220902_092800116](https://user-images.githubusercontent.com/108128650/188034334-965d00ed-26bd-4a25-bd0c-772cc8f590b8.png)](https://github.com/kizuc/TeamProject-kizuc)
 
 <br>
 
