@@ -6,12 +6,12 @@
 ([이미지로 보기](https://github.com/kizuc/PersonalProject/issues/4)  |  [PDF](https://github.com/kizuc/PersonalProject/files/9467447/-.3.pdf))<br>
 배울 수 있는 기회에 감사하며 공부합니다!<br>
 
-- `핀테크 기반 e-커머스` 훈련 중...
-- `정보처리기사` 필기 합격
-- `정보처리기사` 실기 준비 중...
+`핀테크 기반 e-커머스` 훈련 중...
+`정보처리기사` 필기 합격
+`정보처리기사` 실기 준비 중...
 
 </div>
-<br>
+
 
 <div align="center">
 <h3>🛠️ <strong>Tech Stack & Tools </strong> 🛠️</h3> 
