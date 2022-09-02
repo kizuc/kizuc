@@ -44,4 +44,7 @@
 <h2>📚 <strong> IT-Blog </strong> </h2>  
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=kijuk)](https://kijuk.tistory.com)
+<br>
+
+잊지 않기 위해 배우고 공부한 걸 기록합니다.
 
