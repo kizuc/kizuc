@@ -1,4 +1,4 @@
-<h1 align="center">🌄함께 윈윈하며 성장하고 싶은 신입 개발자🌄</h1><br>
+<h2 align="center">🌄함께 윈윈하며 성장하고 싶은 신입 개발자🌄</h2><br>
 
 <div align="center">
 
