@@ -1,9 +1,9 @@
-<h2 align="center">🌄함께 윈윈하며 성장하고 싶은 신입 개발자🌄</h2><br>
+<!-- <h2 align="center">🌄함께 윈윈하며 성장하고 싶은 신입 개발자🌄</h2><br>
 
 <div align="center">
 
 💡 [<strong>소개 페이지</strong>](https://realdeveloper.pro/630ae63f37bb30b80da8abc0)
-<!-- ([이미지로 보기](https://github.com/kizuc/PersonalProject/issues/4)  |  [PDF](https://github.com/kizuc/PersonalProject/files/9467447/-.3.pdf))<br> -->
+<!-- ([이미지로 보기](https://github.com/kizuc/PersonalProject/issues/4)  |  [PDF](https://github.com/kizuc/PersonalProject/files/9467447/-.3.pdf))<br> 
 배울 수 있는 기회에 감사하며 공부합니다!<br>
 
 `핀테크 기반 e-커머스` 훈련 중 <br>
@@ -37,7 +37,7 @@
 
 
 [![TeamProject-kizuc](https://user-images.githubusercontent.com/108128650/187853070-69c072cc-2ee2-4e5d-9a4a-1ab0e7623212.png)](https://github.com/kizuc/TeamProject-kizuc)
--->
+
 
 <h2>📌 <strong> Project </strong> </h2> 
 
@@ -55,4 +55,4 @@
 <br>
 
 잊지 않기 위해 배우고 공부한 걸 기록합니다.
-
+-->
